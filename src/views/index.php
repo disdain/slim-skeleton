@@ -5,8 +5,7 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 
-	<script src="/js/jquery.js"></script>
-	<script src="/js/script.js"></script>
+	<script data-main="/js/main" src="/js/lib/require.js"></script>
 
 </head>
 <body>
