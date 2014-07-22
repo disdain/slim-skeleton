@@ -1,6 +1,7 @@
 {
 	"require": {
 		"slim/slim": "2.*",
-		"disdain/crud": "dev-master"
+		"slim/views": "0.2.*",
+		"twig/twig": "1.*"
 	}
 }
