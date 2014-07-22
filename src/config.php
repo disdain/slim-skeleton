@@ -2,5 +2,6 @@
 
 return array(
 	'debug' => true,
-	'templates.path' => __DIR__.'/views'
+	'templates.path' => __DIR__.'/views',
+	'view' => new \Slim\Views\Twig
 );
